@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\bin\Debug\WaterGun.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\bin\Debug\WaterGun.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\bin\Debug\WaterGun.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\obj\Debug\WaterGun.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\obj\Debug\WaterGun.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\obj\Debug\WaterGun.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\WaterGun\WaterGun\obj\Debug\WaterGun.pdb

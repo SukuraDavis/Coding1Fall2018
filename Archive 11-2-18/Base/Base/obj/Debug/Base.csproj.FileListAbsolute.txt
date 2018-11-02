@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\obj\Debug\Base.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\bin\Debug\Base.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\bin\Debug\Base.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\bin\Debug\Base.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\obj\Debug\Base.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\Base\Base\obj\Debug\Base.pdb

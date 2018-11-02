@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\bin\Debug\ASCII.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\bin\Debug\ASCII.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\obj\Debug\ASCII.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\obj\Debug\ASCII.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\ASCII\ASCII\obj\Debug\ASCII.pdb

@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\bin\Debug\JRomansPalindrome.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\bin\Debug\JRomansPalindrome.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\bin\Debug\JRomansPalindrome.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\obj\Debug\JRomansPalindrome.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\obj\Debug\JRomansPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\obj\Debug\JRomansPalindrome.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansPalindrome\JRomansPalindrome\obj\Debug\JRomansPalindrome.pdb

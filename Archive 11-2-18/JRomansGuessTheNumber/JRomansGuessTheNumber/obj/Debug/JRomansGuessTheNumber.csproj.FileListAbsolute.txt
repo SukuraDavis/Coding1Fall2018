@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\bin\Debug\JRomansGuessTheNumber.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\bin\Debug\JRomansGuessTheNumber.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\bin\Debug\JRomansGuessTheNumber.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\obj\Debug\JRomansGuessTheNumber.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\obj\Debug\JRomansGuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\obj\Debug\JRomansGuessTheNumber.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\JRomansGuessTheNumber\JRomansGuessTheNumber\obj\Debug\JRomansGuessTheNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\HappyCharacteroUNO\HappyCharacteroUNO\obj\Debug\HappyCharacteroUNO.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\HappyCharacteroUNO\HappyCharacteroUNO\bin\Debug\HappyCharacteroUNO.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\HappyCharacteroUNO\HappyCharacteroUNO\bin\Debug\HappyCharacteroUNO.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\HappyCharacteroUNO\HappyCharacteroUNO\bin\Debug\HappyCharacteroUNO.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\HappyCharacteroUNO\HappyCharacteroUNO\obj\Debug\HappyCharacteroUNO.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\HappyCharacteroUNO\HappyCharacteroUNO\obj\Debug\HappyCharacteroUNO.pdb
