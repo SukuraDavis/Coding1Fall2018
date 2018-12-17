@@ -27,9 +27,10 @@ namespace DiscordBotInCSharp
         private async Task MainAsync()
         {
             string JSON = "";
-            string SettingsLocation = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1", @"Data\Settings.json");
-            using (var Stream = new FileStream(SettingsLocation, FileMode.Open, FileAccess.Read))
-            using (var ReadSettings = new StreamReader(Stream))
+            //string SettingsLocation = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1", @"Data\settings.json");
+            // using (var Stream = new FileStream(SettingsLocation, FileMode.Open, FileAccess.Read))
+            using (var Stram = new FileStream((Path.GetDirectoryName(Assembly.GetEntryAssembly().Location)).Replace(@"bin\Debug\netcoreapp2.1", @"Data\settings.json"), FileMode.Open, FileAccess.Read))
+            using (var ReadSettings = new StreamReader(Stram))
             {
                 JSON = ReadSettings.ReadToEnd();
             }
@@ -64,7 +65,7 @@ namespace DiscordBotInCSharp
             Client.Log += Client_Log;
 
             string Token = "";
-            using (var Stream = new FileStream((Path.GetDirectoryName(Assembly.GetEntryAssembly().Location)).Replace(@"bin\Debug\netcoreapp2.0", @"Data\Token.txt"), FileMode.Open, FileAccess.Read))
+            using (var Stream = new FileStream((Path.GetDirectoryName(Assembly.GetEntryAssembly().Location)).Replace(@"bin\Debug\netcoreapp2.1", @"Data\Token.txt"), FileMode.Open, FileAccess.Read))
             using (var ReadToken = new StreamReader(Stream))
             {
                 Token = ReadToken.ReadToEnd();
