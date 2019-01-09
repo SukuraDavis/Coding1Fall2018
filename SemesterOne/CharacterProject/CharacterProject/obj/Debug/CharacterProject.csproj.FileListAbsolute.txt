@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\bin\Debug\CharacterProject.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\bin\Debug\CharacterProject.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\bin\Debug\CharacterProject.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\obj\Debug\CharacterProject.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\obj\Debug\CharacterProject.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\obj\Debug\CharacterProject.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\CharacterProject\CharacterProject\obj\Debug\CharacterProject.pdb

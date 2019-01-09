@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\bin\Debug\allRadixPrint.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\bin\Debug\allRadixPrint.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\bin\Debug\allRadixPrint.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\obj\Debug\allRadixPrint.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\obj\Debug\allRadixPrint.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\obj\Debug\allRadixPrint.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\allRadixPrint\allRadixPrint\obj\Debug\allRadixPrint.pdb

@@ -1,0 +1,7 @@
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\bin\Debug\StreamWriterr.exe.config
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\bin\Debug\StreamWriterr.exe
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\bin\Debug\StreamWriterr.pdb
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\obj\Debug\StreamWriterr.csprojAssemblyReference.cache
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\obj\Debug\StreamWriterr.csproj.CoreCompileInputs.cache
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\obj\Debug\StreamWriterr.exe
+C:\Users\138692\Documents\Coding1Fall2018\StreamWriterr\StreamWriterr\obj\Debug\StreamWriterr.pdb

@@ -1,0 +1,7 @@
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\bin\Debug\StreamReaderr.exe.config
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\bin\Debug\StreamReaderr.exe
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\bin\Debug\StreamReaderr.pdb
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\obj\Debug\StreamReaderr.csprojAssemblyReference.cache
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\obj\Debug\StreamReaderr.csproj.CoreCompileInputs.cache
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\obj\Debug\StreamReaderr.exe
+C:\Users\138692\Documents\Coding1Fall2018\StreamReaderr\StreamReaderr\obj\Debug\StreamReaderr.pdb
