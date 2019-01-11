@@ -1,0 +1,22 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.pdb
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.deps.json
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.json
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.dev.json
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.dll
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\bin\Debug\netcoreapp2.1\Stack.pdb
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.csprojAssemblyReference.cache
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfoInputs.cache
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfo.cs
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.dll
+C:\Users\138692\Documents\Coding1Fall2018\SemesterTwo\Stack\Stack\obj\Debug\netcoreapp2.1\Stack.pdb
