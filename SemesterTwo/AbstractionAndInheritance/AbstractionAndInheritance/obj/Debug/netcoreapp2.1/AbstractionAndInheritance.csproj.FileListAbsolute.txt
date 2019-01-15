@@ -1,0 +1,11 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\bin\Debug\netcoreapp2.1\AbstractionAndInheritance.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\bin\Debug\netcoreapp2.1\AbstractionAndInheritance.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\bin\Debug\netcoreapp2.1\AbstractionAndInheritance.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\bin\Debug\netcoreapp2.1\AbstractionAndInheritance.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\bin\Debug\netcoreapp2.1\AbstractionAndInheritance.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\obj\Debug\netcoreapp2.1\AbstractionAndInheritance.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\obj\Debug\netcoreapp2.1\AbstractionAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\obj\Debug\netcoreapp2.1\AbstractionAndInheritance.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\obj\Debug\netcoreapp2.1\AbstractionAndInheritance.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\obj\Debug\netcoreapp2.1\AbstractionAndInheritance.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\AbstractionAndInheritance\AbstractionAndInheritance\obj\Debug\netcoreapp2.1\AbstractionAndInheritance.pdb
