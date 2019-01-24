@@ -1,0 +1,11 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\DeckOfCards\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.pdb
