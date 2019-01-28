@@ -1,44 +1,44 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Threading.Tasks;
-using System.Linq;
 
-namespace Stack
+namespace Queue
 {
-    class Stack
+    class Queue
     {
         List<int> holder = new List<int>();
 
-        public Stack()
+        public Queue()
         {
 
         }
 
         //push
-        public void Push(int val)
+        public void EnQueue(int val)
         {
             holder.Add(val);
         }
-        
+
         //pop
-        public int Pop()
+        public int DeQueue()
         {
+
             int first;
-            first = holder[holder.Count - 1];
+            first = holder[holder.Count - holder.Count];
             Console.WriteLine(" ");
-            Console.WriteLine(holder[holder.Count - 1] + " has been popped!");
+            Console.WriteLine(holder[holder.Count - holder.Count] + " has been popped!");
             Console.WriteLine(" ");
-            holder.RemoveAt(holder.Count - 1);
+            holder.Remove(first);
             return first;
+
         }
 
         //peek
         public int Peek()
         {
-           return holder[holder.Count - 1];
-            
-            
+            return holder[holder.Count - holder.Count];
+
+
         }
 
         //print
@@ -49,7 +49,7 @@ namespace Stack
 
                 Console.WriteLine(" ");
                 Console.Write(holder[i]);
-               
+
 
             }
 
