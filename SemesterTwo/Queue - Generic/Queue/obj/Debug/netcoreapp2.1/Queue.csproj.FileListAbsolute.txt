@@ -1,0 +1,22 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\obj\Debug\netcoreapp2.1\Queue.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\obj\Debug\netcoreapp2.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\obj\Debug\netcoreapp2.1\Queue.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\obj\Debug\netcoreapp2.1\Queue.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\bin\Debug\netcoreapp2.1\Queue.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\bin\Debug\netcoreapp2.1\Queue.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\Queue - Generic\Queue\bin\Debug\netcoreapp2.1\Queue.pdb
