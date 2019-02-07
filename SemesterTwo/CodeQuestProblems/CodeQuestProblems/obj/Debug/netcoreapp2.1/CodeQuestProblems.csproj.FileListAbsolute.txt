@@ -1,0 +1,11 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\bin\Debug\netcoreapp2.1\CodeQuestProblems.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\bin\Debug\netcoreapp2.1\CodeQuestProblems.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\bin\Debug\netcoreapp2.1\CodeQuestProblems.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\bin\Debug\netcoreapp2.1\CodeQuestProblems.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\bin\Debug\netcoreapp2.1\CodeQuestProblems.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\obj\Debug\netcoreapp2.1\CodeQuestProblems.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\obj\Debug\netcoreapp2.1\CodeQuestProblems.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\obj\Debug\netcoreapp2.1\CodeQuestProblems.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\obj\Debug\netcoreapp2.1\CodeQuestProblems.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\obj\Debug\netcoreapp2.1\CodeQuestProblems.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\CodeQuestProblems\CodeQuestProblems\obj\Debug\netcoreapp2.1\CodeQuestProblems.pdb
