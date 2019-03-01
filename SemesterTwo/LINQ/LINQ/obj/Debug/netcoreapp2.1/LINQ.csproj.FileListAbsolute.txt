@@ -1,0 +1,11 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\LINQ\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb

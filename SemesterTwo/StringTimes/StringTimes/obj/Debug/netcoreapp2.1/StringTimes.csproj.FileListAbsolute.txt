@@ -1,0 +1,11 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\bin\Debug\netcoreapp2.1\StringTimes.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\bin\Debug\netcoreapp2.1\StringTimes.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\bin\Debug\netcoreapp2.1\StringTimes.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\bin\Debug\netcoreapp2.1\StringTimes.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\bin\Debug\netcoreapp2.1\StringTimes.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\obj\Debug\netcoreapp2.1\StringTimes.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\obj\Debug\netcoreapp2.1\StringTimes.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\obj\Debug\netcoreapp2.1\StringTimes.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\obj\Debug\netcoreapp2.1\StringTimes.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\obj\Debug\netcoreapp2.1\StringTimes.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\StringTimes\StringTimes\obj\Debug\netcoreapp2.1\StringTimes.pdb

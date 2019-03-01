@@ -1,0 +1,11 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\bin\Debug\netcoreapp2.1\LinqCreate.deps.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\bin\Debug\netcoreapp2.1\LinqCreate.runtimeconfig.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\bin\Debug\netcoreapp2.1\LinqCreate.runtimeconfig.dev.json
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\bin\Debug\netcoreapp2.1\LinqCreate.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\bin\Debug\netcoreapp2.1\LinqCreate.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\obj\Debug\netcoreapp2.1\LinqCreate.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\obj\Debug\netcoreapp2.1\LinqCreate.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\obj\Debug\netcoreapp2.1\LinqCreate.AssemblyInfoInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\obj\Debug\netcoreapp2.1\LinqCreate.AssemblyInfo.cs
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\obj\Debug\netcoreapp2.1\LinqCreate.dll
+C:\Users\138692\OneDrive - Academy District 20\Coding\LinqCreate\LinqCreate\obj\Debug\netcoreapp2.1\LinqCreate.pdb
