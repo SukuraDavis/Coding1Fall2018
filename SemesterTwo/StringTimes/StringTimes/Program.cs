@@ -31,6 +31,31 @@ namespace StringTimes
             
         }
 
+        static void stringsplosion()
+        {
+                Console.WriteLine("Please enter a string");
+                string result = Console.ReadLine();
+
+                for (int i = 0; i < result.Length; i++)
+                {
+
+                    for (int y = 0; y < i + 1; y++)
+                    {
+                        Console.Write(result[y]);
+
+
+
+                    }
+
+
+                }
+                Console.ReadLine();
+
+
+
+            }
+        }
+
         
             
         
