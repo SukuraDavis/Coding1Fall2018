@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\138692\\Documents\\Coding1Fall2018\\SemesterTwo\\StringTimes\\StringTimes\\StringTimes.csproj",
+      "projectUniqueName": "C:\\Users\\138692\\OneDrive - Academy District 20\\Coding\\StringTimes\\StringTimes\\StringTimes.csproj",
       "projectName": "StringTimes",
-      "projectPath": "C:\\Users\\138692\\Documents\\Coding1Fall2018\\SemesterTwo\\StringTimes\\StringTimes\\StringTimes.csproj",
+      "projectPath": "C:\\Users\\138692\\OneDrive - Academy District 20\\Coding\\StringTimes\\StringTimes\\StringTimes.csproj",
       "packagesPath": "C:\\Users\\138692\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\138692\\Documents\\Coding1Fall2018\\SemesterTwo\\StringTimes\\StringTimes\\obj\\",
+      "outputPath": "C:\\Users\\138692\\OneDrive - Academy District 20\\Coding\\StringTimes\\StringTimes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

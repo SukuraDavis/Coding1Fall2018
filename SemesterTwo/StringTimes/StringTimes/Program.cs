@@ -13,7 +13,9 @@ namespace StringTimes
             string o = StringTimes("Hi", 5);
             Console.WriteLine(o);
             Console.ReadKey();
-           
+
+
+
         }
 
         static string StringTimes(string h, int g)
@@ -28,33 +30,52 @@ namespace StringTimes
             }
 
             return k;
-            
+
         }
 
         static void stringsplosion()
         {
-                Console.WriteLine("Please enter a string");
-                string result = Console.ReadLine();
+            Console.WriteLine("Please enter a string");
+            string result = Console.ReadLine();
 
-                for (int i = 0; i < result.Length; i++)
+            for (int i = 0; i < result.Length; i++)
+            {
+
+                for (int y = 0; y < i + 1; y++)
                 {
+                    Console.Write(result[y]);
 
-                    for (int y = 0; y < i + 1; y++)
-                    {
-                        Console.Write(result[y]);
-
-
-
-                    }
 
 
                 }
-                Console.ReadLine();
-
 
 
             }
+            Console.ReadLine();
+
         }
+
+        static void stringBits()
+        {
+            Console.WriteLine("Please enter a string");
+            string result = Console.ReadLine();
+
+            for (int i = 0; i < result.Length; i++)
+            {
+
+                if (i % 2 == 0)
+                {
+                    Console.Write(result[i]);
+                }
+
+
+            }
+            Console.ReadLine();
+        }
+
+        
+            
+        
 
         
             
