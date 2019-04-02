@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\bin\Debug\PreAssessment.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\bin\Debug\PreAssessment.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\bin\Debug\PreAssessment.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\obj\Debug\PreAssessment.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\obj\Debug\PreAssessment.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\obj\Debug\PreAssessment.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\PreAssessment\PreAssessment\obj\Debug\PreAssessment.pdb
