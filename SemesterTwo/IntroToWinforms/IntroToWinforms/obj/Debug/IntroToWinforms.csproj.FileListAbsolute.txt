@@ -1,0 +1,10 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\bin\Debug\IntroToWinforms.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\bin\Debug\IntroToWinforms.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\bin\Debug\IntroToWinforms.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.Form1.resources
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.Properties.Resources.resources
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.csproj.GenerateResource.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\IntroToWinforms\IntroToWinforms\obj\Debug\IntroToWinforms.pdb

@@ -1,0 +1,7 @@
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.pdb
