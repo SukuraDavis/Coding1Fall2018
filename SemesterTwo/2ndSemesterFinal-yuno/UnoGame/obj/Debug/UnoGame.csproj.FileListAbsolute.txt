@@ -1,0 +1,14 @@
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\bin\Debug\UnoGame.exe.config
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\bin\Debug\UnoGame.exe
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\bin\Debug\UnoGame.pdb
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.csprojAssemblyReference.cache
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.csproj.CoreCompileInputs.cache
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.exe
+C:\Users\138692.AD\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\bin\Debug\UnoGame.exe.config
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\bin\Debug\UnoGame.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\bin\Debug\UnoGame.pdb
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.csprojAssemblyReference.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.csproj.CoreCompileInputs.cache
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.exe
+C:\Users\138692\OneDrive - Academy District 20\Coding\UnoGame\UnoGame\obj\Debug\UnoGame.pdb
