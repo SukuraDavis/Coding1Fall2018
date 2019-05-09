@@ -414,7 +414,7 @@ namespace UnoGame
             Console.Write("-->Write: gx\n");
             Console.WriteLine("\nUpper or lower letters doesn\'t matter.\nFor the last example: You can use gx, Gx, gX or GX. It\'s the same.");
             Console.WriteLine("\nWe have two special cards. C (Change Color) and +4. These cards don\'t have color, but it can be played to any card.");
-            Console.WriteLine("\nYou can play these card like this:");
+            Console.WriteLine("\nYou can play these cards like this:");
             Console.Write("\t-Play: C ");
             Console.Write("-->Write: c \n");
             Console.WriteLine("\t\t-Now it will ask you for a letter R, G, B or Y");
